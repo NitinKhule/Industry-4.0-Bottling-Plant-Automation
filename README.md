@@ -1,9 +1,43 @@
-Designed and 3D-printed custom guiding rails to improve system stability, enhance bottle detection accuracy, and optimize process efficiency.
+## ⚙️ Industry 4.0 Automation Project Summary
 
-Programmed and implemented ultrasonic sensors for precise bottle detection, overcoming challenges related to alignment and weight instability.
+A hands-on engineering initiative focused on smart manufacturing systems and real-time automation using modern industrial tools and interfaces.
 
-Collaborated in the development of Human-Machine Interface (HMI) systems using Siemens WinCC and TIA Portal to improve user interaction and process visualization.
+---
 
-Gained hands-on experience with automation tools and technologies, including integration of sensors, actuators, and PLCs into a functional Industry 4.0 system.
+### 🛠️ Key Contributions
 
-Enhanced problem-solving skills by addressing real-world challenges in automation design, testing, and implementation for a lab-scale Industry 4.0 plant.
+- 🧩 **3D Design & Printing**  
+  ➤ Designed and fabricated custom **guiding rails** using 3D printing to:
+  - Improve system stability  
+  - Enhance bottle detection accuracy  
+  - Optimize throughput and operational efficiency  
+
+- 📡 **Sensor Integration & Programming**  
+  ➤ Programmed and integrated **ultrasonic sensors** for high-precision bottle detection:  
+  - Overcame issues related to **alignment and weight instability**  
+  - Ensured consistent data acquisition in dynamic environments  
+
+- 💻 **HMI Development with Siemens TIA Portal**  
+  ➤ Contributed to building a **Human-Machine Interface (HMI)** with:
+  - **Siemens WinCC** for UI/UX  
+  - **TIA Portal** for PLC integration and process visualization  
+
+- 🤖 **Automation & System Integration**  
+  ➤ Hands-on experience with:
+  - **PLC programming**, actuator/sensor integration  
+  - Assembly of a **lab-scale Industry 4.0 system** with full functionality  
+
+- 🧠 **Problem-Solving in Real-World Scenarios**  
+  ➤ Addressed technical bottlenecks in:
+  - Automation design & system validation  
+  - Debugging and optimizing control systems under real conditions  
+
+---
+
+### 🧰 Tools & Technologies Used
+- Siemens TIA Portal & WinCC  
+- Ultrasonic sensors & actuators  
+- 3D Printing (FDM)  
+- PLC Systems  
+- CAD Software  
+- Industry 4.0 lab setup  
